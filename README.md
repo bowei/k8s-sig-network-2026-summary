@@ -1,7 +1,7 @@
 # Kubernetes SIG-NETWORK 2026 Overview (KubeCon NA 2026 Briefing)
 
 - **Period Covered**: January 1, 2026 – October 22, 2026 (Kubernetes **v1.36**, **v1.37**, and **v1.38** cycles)
-- **SIG Chairs**: Bowei Du (`@bowei`), Daman Arora (`@daman`), Guilherme Cassolato (`@guicassolato`)
+- **SIG Chairs**: Bowei Du (`@bowei`), Guilherme Cassolato (`@guicassolato`)
 - **SIG Tech Leads**: Tim Hockin (`@thockin`), Dan Winship (`@danwinship`), Antonio Ojea (`@aojea`), Rob Scott (`@robscott`)
 
 ---
