@@ -155,7 +155,7 @@ All detailed commit-level reports and meeting summaries are available in this wo
 - [kube-network-policies-activity.md](kube-network-policies-activity.md) — `kubernetes-sigs/kube-network-policies` (v1.0.0 – v1.1.2)
 - [kube-agentic-networking-activity.md](kube-agentic-networking-activity.md) — `kubernetes-sigs/kube-agentic-networking` (`v1alpha1` / MCP & CEL auth)
 - [gateway-api-inference-extension-activity.md](gateway-api-inference-extension-activity.md) — `kubernetes-sigs/gateway-api-inference-extension` (v1.4 – v1.5, `llm-d` transition & `lwepp`)
-- [mcs-api-activity.md](kubecon-na-2026/mcs-api-activity.md) — `kubernetes-sigs/mcs-api` & KEP-5939 Cluster Selection
+- [mcs-api-activity.md](mcs-api-activity.md) — `kubernetes-sigs/mcs-api` & KEP-5939 Cluster Selection
 - [node-local-dns-activity.md](node-local-dns-activity.md) — `kubernetes-sigs/node-local-dns` (1.26.8 – 1.27.2)
 - [external-dns-activity.md](external-dns-activity.md) — `kubernetes-sigs/external-dns` (v0.21.0 – v0.23.0)
 - [knftables-activity.md](knftables-activity.md) — `kubernetes-sigs/knftables` (v0.0.20 – v0.0.22)
