@@ -145,17 +145,17 @@ Conducted between April and June 2026 by Co-Chair Guilherme Cassolato (`@guicass
 ## 6. Index of Generated Repository & Meeting Reports
 
 All detailed commit-level reports and meeting summaries are available in this workspace:
-- [sig-network-meeting-notes.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/sig-network-meeting-notes.md) — Chronological & thematic summary of all 2026 SIG-NETWORK biweekly meetings and linked design docs
-- [kubernetes-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/kubernetes-activity.md) — `kubernetes/kubernetes` SIG-NETWORK commits (v1.36–v1.38)
-- [enhancements-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/enhancements-activity.md) — `kubernetes/enhancements` SIG-NETWORK KEPs (2026)
-- [gateway-api-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/gateway-api-activity.md) — `kubernetes-sigs/gateway-api` (v1.5, v1.6, v1.7)
-- [dranet-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/dranet-activity.md) — `kubernetes-sigs/dranet` (v1.1.0 – v1.5.0)
-- [network-policy-api-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/network-policy-api-activity.md) — `kubernetes-sigs/network-policy-api` (`ClusterNetworkPolicy` v0.2.0 & v1beta1 prep)
-- [ingress2gateway-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/ingress2gateway-activity.md) — `kubernetes-sigs/ingress2gateway` (v1.0.0 – v1.2.0)
-- [kube-network-policies-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/kube-network-policies-activity.md) — `kubernetes-sigs/kube-network-policies` (v1.0.0 – v1.1.2)
-- [kube-agentic-networking-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/kube-agentic-networking-activity.md) — `kubernetes-sigs/kube-agentic-networking` (`v1alpha1` / MCP & CEL auth)
-- [gateway-api-inference-extension-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/gateway-api-inference-extension-activity.md) — `kubernetes-sigs/gateway-api-inference-extension` (v1.4 – v1.5, `llm-d` transition & `lwepp`)
-- [mcs-api-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/mcs-api-activity.md) — `kubernetes-sigs/mcs-api` & KEP-5939 Cluster Selection
-- [node-local-dns-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/node-local-dns-activity.md) — `kubernetes-sigs/node-local-dns` (1.26.8 – 1.27.2)
-- [external-dns-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/external-dns-activity.md) — `kubernetes-sigs/external-dns` (v0.21.0 – v0.23.0)
-- [knftables-activity.md](file:///usr/local/google/home/bowei/work/kubecon-na-2026/knftables-activity.md) — `kubernetes-sigs/knftables` (v0.0.20 – v0.0.22)
+- [sig-network-meeting-notes.md](sig-network-meeting-notes.md) — Chronological & thematic summary of all 2026 SIG-NETWORK biweekly meetings and linked design docs
+- [kubernetes-activity.md](kubernetes-activity.md) — `kubernetes/kubernetes` SIG-NETWORK commits (v1.36–v1.38)
+- [enhancements-activity.md](enhancements-activity.md) — `kubernetes/enhancements` SIG-NETWORK KEPs (2026)
+- [gateway-api-activity.md](gateway-api-activity.md) — `kubernetes-sigs/gateway-api` (v1.5, v1.6, v1.7)
+- [dranet-activity.md](dranet-activity.md) — `kubernetes-sigs/dranet` (v1.1.0 – v1.5.0)
+- [network-policy-api-activity.md](network-policy-api-activity.md) — `kubernetes-sigs/network-policy-api` (`ClusterNetworkPolicy` v0.2.0 & v1beta1 prep)
+- [ingress2gateway-activity.md](ingress2gateway-activity.md) — `kubernetes-sigs/ingress2gateway` (v1.0.0 – v1.2.0)
+- [kube-network-policies-activity.md](kube-network-policies-activity.md) — `kubernetes-sigs/kube-network-policies` (v1.0.0 – v1.1.2)
+- [kube-agentic-networking-activity.md](kube-agentic-networking-activity.md) — `kubernetes-sigs/kube-agentic-networking` (`v1alpha1` / MCP & CEL auth)
+- [gateway-api-inference-extension-activity.md](gateway-api-inference-extension-activity.md) — `kubernetes-sigs/gateway-api-inference-extension` (v1.4 – v1.5, `llm-d` transition & `lwepp`)
+- [mcs-api-activity.md](kubecon-na-2026/mcs-api-activity.md) — `kubernetes-sigs/mcs-api` & KEP-5939 Cluster Selection
+- [node-local-dns-activity.md](node-local-dns-activity.md) — `kubernetes-sigs/node-local-dns` (1.26.8 – 1.27.2)
+- [external-dns-activity.md](external-dns-activity.md) — `kubernetes-sigs/external-dns` (v0.21.0 – v0.23.0)
+- [knftables-activity.md](knftables-activity.md) — `kubernetes-sigs/knftables` (v0.0.20 – v0.0.22)
